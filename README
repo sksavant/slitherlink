@@ -1,0 +1,16 @@
+This repository contains prolog code to solve the Slither Link puzzle modeling
+it as a Constraint Satisfaction Problem.
+It is an assignment as a part of CS621 course on Artificial Intelligence
+
+References (given on Moodle):
+http://en.wikipedia.org/wiki/Slitherlink
+http://diuflx71.unifr.ch/course/download/vorl08/uebungen/slitherlink.pdf
+http://web.student.tuwien.ac.at/~e0225855/swiclpfd.pdf
+http://www.sci.brooklyn.cuny.edu/~zhou/aspcompetition/
+http://krazydad.com/slitherlink/
+
+The code is written by 
+Laxman Vemula "laxmanvemula(at)cse.iitb.ac.in"
+Vamsi Krishna "vamsics(at)cse.iitb.ac.in"
+Savant Krishna "savant.2020@gmail.com"
+
