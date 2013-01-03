@@ -10,7 +10,24 @@ http://www.sci.brooklyn.cuny.edu/~zhou/aspcompetition/
 http://krazydad.com/slitherlink/
 
 The code is written by 
-Laxman Vemula "laxmanvemula(at)cse.iitb.ac.in"
-Vamsi Krishna "vamsics(at)cse.iitb.ac.in"
+Laxman Vemula
+Vamsi Krishna
 Savant Krishna "savant.2020@gmail.com"
+
+Files:
+1. slitherlink_program.pl: Contains the prolog code which will be used to solve the puzzle. This will be used by the python
+2. slitherlink.py: Python script which takes the input file as argument and processes it and prints the solution on standard output.
+
+How to execute:
+./slitherlink.py <input-file>
+
+Input file should be exactly in the format as discussed in the class.
+Example:
+6 6
+2 3 3 2 1 3
+2 -1 -1 -1 1 3
+2 -1 -1 0 0 2
+2 1 3 -1 -1 2
+3 3 -1 -1 -1 3
+2 2 2 3 2 3
 
